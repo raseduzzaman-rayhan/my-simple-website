@@ -1,0 +1,12 @@
+body section div {
+    background-color: tomato;
+    padding: 10px;
+}
+
+p {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
